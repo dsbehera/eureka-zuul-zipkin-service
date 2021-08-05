@@ -1,4 +1,4 @@
-# sample-microservice
+# Spring Boot Microservice
 Single repo for whole microservice architecture. 
 Eureka service. 
 FeignClient. 
