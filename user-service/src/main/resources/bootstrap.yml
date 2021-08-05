@@ -1,0 +1,12 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://eureka:8081/eureka/
+  #instance:
+   # preferIpAddress: true
+spring:
+  application:
+    name: USER-SERVICE
+  sleuth:
+    sampler:
+      probability: 1.0
